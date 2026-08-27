@@ -1,2 +1,26 @@
-# java-concurrency-playground
-Hands-on Java concurrency and multithreading implementations covering thread lifecycle, synchronization, monitors, wait/notify, volatile, atomic variables, CAS, locks, Locks, AQS, semaphores, CountDownLatch, CyclicBarrier, Phaser, thread pools, Executor Framework, Callable/Future, Fork/Join, producer-consumer, virtual threads, parallel streams.
+# Java Concurrency Playground
+
+A collection of practical Java concurrency implementations and case studies.
+
+## Covered Topics
+
+- Thread Lifecycle
+- Synchronization
+- Intrinsic Locks (Monitors)
+- ReentrantLock
+- ReadWriteLock
+- StampedLock
+- Semaphore
+- CountDownLatch
+- CyclicBarrier
+- Phaser
+- Producer Consumer
+- Dining Philosophers
+- Thread Pools
+- Fork Join Framework
+- CompletableFuture
+- Virtual Threads
+
+## Goal
+
+Understand Java concurrency from fundamentals to production-grade patterns.
